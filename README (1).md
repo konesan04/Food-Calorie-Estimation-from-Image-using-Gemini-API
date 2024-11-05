@@ -12,6 +12,7 @@ This project utilizes the Google AI Gemini Pro Vsion model to estimate the calor
 pip install -q -U google-generativeai
 ```
 
+
 #### Set up your Google API key:
 ```python
 from google.colab import userdata
